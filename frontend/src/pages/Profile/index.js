@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from 'react';
 import logoImg from '../../assets/logo.svg';
-import {Redirect} from 'react-router';
 import {Link, useHistory} from 'react-router-dom';
 import {FiPower, FiTrash2} from 'react-icons/fi';
 import './styles.css';
